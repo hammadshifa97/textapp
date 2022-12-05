@@ -49,17 +49,10 @@ function App() {
 
   return (
     <div className="container">
-      /*
+     
       <Navbar title="Words Counter" toggle={bgtoggle} mode={mode} />
       <Alert alert={alert}/>
-      <Textbox showAlert={showAlert} mode={mode}/>*/
-      <h1> Funny Videos 2022 | Instant Regret | Fails Of The Week | Fail Compilation 2022 | Fails | RandomFails </h1>
-      \n
-      {ads}
-      
-\n    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/yXG7wXI5U2I" title="Funny Videos 2022 | Instant Regret | Fails Of The Week | Fail Compilation 2022 | Fails | RandomFails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{ads}
-\n
+      <Textbox showAlert={showAlert} mode={mode}/>
     
     </div>
   );
