@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div>
-     
+     <h1>hammad</h1>
       <Navbar title="Words Counter" toggle={bgtoggle} mode={mode} />
       <Alert alert={alert}/>
       <Textbox showAlert={showAlert} mode={mode}/>
