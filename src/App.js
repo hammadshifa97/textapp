@@ -37,18 +37,10 @@ function App() {
       }
     }
     
-    const ads = ()=>{
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8649682487259297"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8649682487259297" data-ad-slot="5009537847"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    }
-
+    
 
   return (
-    <div className="container">
+    <div>
      
       <Navbar title="Words Counter" toggle={bgtoggle} mode={mode} />
       <Alert alert={alert}/>
