@@ -54,7 +54,7 @@ function App() {
 </script>
     <br/>
     <iframe width="100%" height="400px" src="https://www.youtube.com/embed/yXG7wXI5U2I" title="Funny Videos 2022 | Instant Regret | Fails Of The Week | Fail Compilation 2022 | Fails | RandomFails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+    
      <br/>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8649682487259297"
      crossorigin="anonymous"></script>
@@ -62,6 +62,7 @@ function App() {
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+    </div>
   );
 }
 
